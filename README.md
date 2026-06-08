@@ -1,0 +1,58 @@
+
+# 🧠 Evaluación Sumativa S3 – Desarrollo Orientado a Objetos I
+
+## 👤 Autor del proyecto
+- **Nombre completo:** Cristian Mondaca
+- **Sección:** DOO
+- **Carrera:** Analista Programador Computacional
+- **Sede:** Sede Virtual
+
+---
+
+## 📘 Descripción general del sistema
+Este proyecto corresponde a la Sumativa de la semana 3 del curso Desarrollo orientado a Objetos. El objetivo era desarrollar una aplicacion que diera solucion a al problamatica de una empresa para administrar sus datos, para ello se creo un programa siguiendo los principios de POO como encapsulamiento y herencia.
+
+---
+
+## 🧱 Estructura general del proyecto
+
+```plaintext
+📁 src/
+├── app/
+│   └── Main.java
+├── model/
+│   ├── Persona.java
+│   ├── Cliente.java
+│   └── Direccion.java
+````
+
+---
+
+
+
+## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+
+1. Clona el repositorio desde GitHub:
+
+```bash
+git clone https://github.com/usuario/repositorio-evaluacion-final.git
+```
+
+2. Abre el proyecto en IntelliJ IDEA.
+
+3. Verifica que los archivos `.txt` estén correctamente ubicados.
+
+4. Ejecuta el archivo `Main.java` desde el paquete `app`.
+
+5. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+
+
+---
+
+**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Fecha de entrega:** 08/06/2026
+
+---
+
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+
