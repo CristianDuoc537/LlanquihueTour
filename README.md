@@ -49,7 +49,7 @@ git clone https://github.com/CristianDuoc537/LlanquihueTour.git
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/CristianDuoc537/LlanquihueTour.git]
+**Repositorio GitHub:** https://github.com/CristianDuoc537/LlanquihueTour.git
 **Fecha de entrega:** 08/06/2026
 
 ---
