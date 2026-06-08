@@ -35,7 +35,7 @@ Este proyecto corresponde a la Sumativa de la semana 3 del curso Desarrollo orie
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/CristianDuoc537/LlanquihueTour.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -49,7 +49,7 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \[https://github.com/CristianDuoc537/LlanquihueTour.git]
 **Fecha de entrega:** 08/06/2026
 
 ---
