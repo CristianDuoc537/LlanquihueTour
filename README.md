@@ -1,5 +1,5 @@
 
-# 🧠 Evaluación Sumativa S3 – Desarrollo Orientado a Objetos I
+# 🧠 Evaluación Sumativa S5 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Cristian Mondaca
@@ -10,20 +10,27 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Sumativa de la semana 3 del curso Desarrollo orientado a Objetos. El objetivo era desarrollar una aplicacion que diera solucion a al problamatica de una empresa para administrar sus datos, para ello se creo un programa siguiendo los principios de POO como encapsulamiento y herencia.
+Este proyecto corresponde a la Sumativa de la semana 5 del curso Desarrollo orientado a Objetos. El objetivo era desarrollar una aplicacion que diera solucion a al problamatica de una empresa para administrar sus datos, para ello se creo un programa siguiendo los principios de POO como encapsulamiento y herencia.
 
 ---
 
 ## 🧱 Estructura general del proyecto
 
 ```plaintext
-📁 src/
+src/
 ├── app/
 │   └── Main.java
+│
 ├── model/
 │   ├── Persona.java
 │   ├── Cliente.java
 │   └── Direccion.java
+│
+├── service/
+│   └── GestorClientes.java
+│
+└── resources/
+    └── clientes.txt
 ````
 
 ---
