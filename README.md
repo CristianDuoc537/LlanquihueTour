@@ -21,13 +21,21 @@ src/
 ├── app/
 │   └── Main.java
 │
+├── data/
+│   ├── GestorClientes.java
+│   └── GestorEntidades.java
+│
 ├── model/
 │   ├── Persona.java
 │   ├── Cliente.java
-│   └── Direccion.java
+│   ├── GuiaTuristico.java
+│   ├── Vehiculo.java
+│   ├── Direccion.java
+│   └── Registrable.java
 │
-├── service/
-│   └── GestorClientes.java
+├── ui/
+│   ├── Menu.java
+│   └── VentanaPrincipal.java
 │
 └── resources/
     └── clientes.txt
