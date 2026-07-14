@@ -10,7 +10,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Sumativa de la semana 5 del curso Desarrollo orientado a Objetos. El objetivo era desarrollar una aplicacion que diera solucion a al problamatica de una empresa para administrar sus datos, para ello se creo un programa siguiendo los principios de POO como encapsulamiento y herencia.
+El sistema es una aplicación desarrollada en Java para gestionar la información de una empresa de turismo. Permite administrar distintas entidades, como clientes, guías turísticos y vehículos, facilitando su registro, almacenamiento y visualización. Además, utiliza conceptos de programación orientada a objetos, como herencia, polimorfismo e interfaces, y permite cargar datos desde archivos de texto para mantener la información organizada y accesible.
 
 ---
 
