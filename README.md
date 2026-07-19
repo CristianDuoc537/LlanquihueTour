@@ -1,5 +1,5 @@
 
-# 🧠 Evaluación Sumativa S5 – Desarrollo Orientado a Objetos I
+# 🧠 ETF – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** Cristian Mondaca
