@@ -1,0 +1,2 @@
+Ana Torres;14567890-2;ana.torres@gmail.com;Puerto Montt;Benavente;215;Fotografía
+Luis Rojas;19876543-7;luis.rojas@gmail.com;Frutillar;Vicente Pérez Rosales;87;Transporte Privado

@@ -1,0 +1,4 @@
+Juan Pérez;12345678-9;juan.perez@gmail.com;Puerto Montt;Los Alerces;123;C001;Frecuente
+María González;98765432-1;maria.gonzalez@gmail.com;Osorno;Manuel Rodríguez;456;C002;Ocasional
+Carlos Muñoz;17654321-5;carlos.munoz@gmail.com;Puerto Varas;San Pedro;789;C003;VIP
+Cristian;19778303-3;cristian@gmail.com;La serena;las rosas;123;C007;Frecuente
