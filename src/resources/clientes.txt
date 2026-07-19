@@ -1,5 +1,0 @@
-Camila Torres;La Serena;Avenida del Mar;235;68295738;Camila_Torres@gmail.com;10
-Diego Herrera;La Serena;Avenida Francisco de Aguirre;1425;86251946;Diego3764@gmail.com;12
-Valentina Rojas;Coquimbo;Los Clarines;890;91234567;ValentinaR@gmail.com;8
-Matias Gonzalez;Ovalle;Libertad;456;94567812;MatiasG@gmail.com;15
-Fernanda Diaz;Vicuña;San Martin;123;97845123;FernandaD@gmail.com;6
