@@ -22,23 +22,33 @@ src/
 │   └── Main.java
 │
 ├── data/
-│   ├── GestorClientes.java
-│   └── GestorEntidades.java
+│   ├── GestorCliente.java
+│   ├── GestorColaboradorExterno.java
+│   ├── GestorEntidades.java
+│   ├── GestorGuiaTuristico.java
+│   └── GestorVehiculo.java
 │
 ├── model/
 │   ├── Persona.java
 │   ├── Cliente.java
 │   ├── GuiaTuristico.java
+│   ├── ColaboradorExterno.java
 │   ├── Vehiculo.java
 │   ├── Direccion.java
 │   └── Registrable.java
 │
 ├── ui/
-│   ├── Menu.java
 │   └── VentanaPrincipal.java
 │
+├── util/
+│   ├── ArchivoUtil.java
+│   └── ValidadorUtil.java
+│
 └── resources/
-    └── clientes.txt
+    ├── cliente.txt
+    ├── colaboradorExterno.txt
+    ├── guiaTuristico.txt
+    └── vehiculo.txt
 ````
 
 ---
